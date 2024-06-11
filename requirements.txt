@@ -1,10 +1,9 @@
-azure-cognitiveservices-vision-computervision~=0.11.1
-dotenv~=0.21.1
-langchain-core~=0.0.157
-langsmith~=0.0.45
-msrest~=0.7.1
-openai~=0.27.8
-Pillow~=9.5.0
+azure-cognitiveservices-vision-computervision
+langchain-core
+langsmith
+msrest
+openai
+Pillow
 python-dotenv
 pandas
-streamlit~=1.26.0
+streamlit

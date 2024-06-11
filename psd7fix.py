@@ -64,7 +64,7 @@ if uploaded_file is not None:
             extracted_text = read_text_from_image(image_stream)
 
         st.subheader("Hasil Output:")
-        st.write(extracted_text)
+        #st.write(extracted_text)
 
         ocr_output = extracted_text
 
